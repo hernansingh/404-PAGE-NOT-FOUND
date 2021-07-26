@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://hernansingh.github.io/404-page-not-found/">
       Demo
     </a>
     <span> | </span>
