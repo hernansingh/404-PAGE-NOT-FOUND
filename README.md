@@ -35,7 +35,7 @@
 
 ## Overview
 
-An simple but really good project. I learned a lot.
+An simple static web "404 page" it was simple but really good project. I learned a lot.
 
 ## Features
 
