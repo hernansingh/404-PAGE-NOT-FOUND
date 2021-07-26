@@ -12,8 +12,8 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
+    <a href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1">
+      Design
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
@@ -27,26 +27,22 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- It was pretty good, a learn a lot and this is my first project in github so i'm really exited :)
+An simple but really good project. I learned a lot.
 
 ## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/hernansingh)
-- Twitter [@your-twitter](https://twitter.com/HernanSingh_)
+- GitHub [@hernansingh](https://github.com/hernansingh)
+- Twitter [@HernanSingh_](https://twitter.com/HernanSingh_)
+- LinkedIn [@hernan-singh](https://www.linkedin.com/in/hernan-singh)
