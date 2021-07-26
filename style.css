@@ -1,0 +1,78 @@
+html {
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 62.5%
+}
+
+body {
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Space Mono', monospace;
+}
+
+img {
+    width: 80%;
+    margin: auto;
+}
+
+h1 {
+    font-size: 4rem;
+    margin: 0 0 2rem 0;
+}
+
+p {
+    font-size: 2rem;
+    font-weight: 400;
+    margin: 0 0 3rem 0;
+}
+
+.text {
+    padding-left: .5rem;
+}
+
+.centrado {
+    text-align: center;
+}
+
+
+/* nav */
+
+nav p {
+    font: "inconsolata";
+    font-weight: 700;
+    margin: 2rem 1rem;
+}
+
+
+/* BTN */
+
+.btn {
+    width: 216px;
+    height: 68px;
+    background-color: #333;
+    color: #fff;
+}
+
+footer p {
+    visibility: hidden;
+}
+
+@media (min-width:768px) {
+    .welcome {
+        display: flex;
+        align-items: center;
+        margin-top: 10rem;
+    }
+    nav {
+        margin: 2rem 0 6rem 4rem
+    }
+    footer p {
+        visibility: visible;
+        position: absolute;
+        bottom: 2rem;
+        left: 45%;
+        font-family: sans-serif;
+        font-weight: 500;
+        font-size: 1.4rem;
+        color: #BDBDBD;
+    }
+}
