@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">404 PAGE NOT FOUND by Hernan Singh</h1>
 
 <div align="center">
@@ -46,3 +44,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - GitHub [@hernansingh](https://github.com/hernansingh)
 - Twitter [@HernanSingh_](https://twitter.com/HernanSingh_)
 - LinkedIn [@hernan-singh](https://www.linkedin.com/in/hernan-singh)
+- Instagram [@hernansingh_](https://www.instagram.com/hernansingh_)
