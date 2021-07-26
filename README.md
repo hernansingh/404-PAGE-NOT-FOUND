@@ -9,7 +9,7 @@
 <div align="center">
   <h3>
     <a href="https://hernansingh.github.io/404-page-not-found/">
-      Demo
+      Result
     </a>
     <span> | </span>
     <a href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1">
